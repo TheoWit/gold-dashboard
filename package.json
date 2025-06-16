@@ -1,7 +1,6 @@
 {
-  "name": "max-percent-dashboard",
+  "name": "gold-dashboard",
   "version": "1.0.0",
-  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,6 +12,7 @@
     "recharts": "^2.7.2"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
     "vite": "^5.0.0"
   }
 }
